@@ -1,0 +1,11 @@
+
+include ':duktape'
+include ':coffeescript'
+include ':coffeescript-test-1'
+include ':coffeescript-test-2'
+//include ':coffeescript-test-regress'
+include ':coffeescript-test-shared'
+include ':duktape'
+include ':miniz'
+include ':small-tin-check'
+include ':palbase' //shame
